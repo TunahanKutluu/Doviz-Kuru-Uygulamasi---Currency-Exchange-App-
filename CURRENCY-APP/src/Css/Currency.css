@@ -1,0 +1,36 @@
+.c-row-01{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   margin-top: 60px;
+   width:800px;
+    margin: 80px auto 0 auto;
+}
+.c-container-01{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    background-color: antiquewhite;
+}
+.c-container-02{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    width: 100%;
+    gap: 10px;
+    margin-top: 40px;
+}
+.c-item-01{
+    height: 30px;
+}
+.c-container-03{
+    margin-top: 40px;
+}
+.btn{
+    height: 30px;
+    color: black;
+    background-color: antiquewhite;
+}
